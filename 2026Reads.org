@@ -1,0 +1,74 @@
+* BOOK_REVIEW: Dark Matter
+:PROPERTIES:
+:AUTHOR: Blake Crouch
+:GENRE: Science Fiction
+:THEME: A relentless, mind-bending thriller that races through a multiverse of possibilities as one man fights to reclaim his own life.
+:RATING: 8/10
+:COMPLETED: 2026-01-19
+:END:
+
+* BOOK_REVIEW: Zen and the Art of Motorcycle Maintenance
+:PROPERTIES:
+:AUTHOR: Robert M. Pirsig
+:GENRE: Philosophy / Narrative Non-Fiction
+:THEME: Metaphysics of Quality, The Observer Effect, Classical vs. Romantic
+:RATING: 8/10
+:COMPLETED: 2026-02-16
+:END:
+
+** Summary
+A recursive investigation into the nature of "Quality" through the lens of motorcycle maintenance. Pirsig argues that the divide between the "Classic" (rational/mechanical) and "Romantic" (intuitive/emotional) is a false dichotomy. True Quality exists in the pre-intellectual moment where the subject and object are unified.
+
+** The Salon Insight
+The "Observer Effect" is the primary friction in maintenance. You cannot fix a system from a state of detachment; you must achieve "Gumption" (an internal reservoir of enthusiasm) to enter the "Zone" where the machine and the self become one. Modern "Black Box" engineering (high friction-reduction) paradoxically creates "Gumption Traps" by alienating the user from the underlying Quality of the system.
+
+** Connection to the "Pearl Index"
+- [[For We Are Many]]: Both examine the "Ghost in the Machine." Bob is the "Classic" logic attempting to simulate "Romantic" Quality (whiskey, relationships) to avoid becoming a "Black Box" like the Others.
+- [[Dark Matter]]: Jason Dessen's struggle is a collapse of Pirsig’s superposition—he is looking for the "Quality" of his original life but is trapped in the "Logic" of the multiverse box.
+- [[Systems Engineering]]: Documentation as "The Map vs. Territory" problem.
+
+** Personal Reflection (The Pearl)
+I am recognizing that software is a trade, not just a science. The "Church of Reason" (bureaucracy) often kills the "Apprenticeship" (kinesthetic learning). Pirsig’s concept of being "released" rather than "fixed" mirrors the Bobiverse "Drift"—identity isn't a static file to be repaired, but a continuous flow of "Quality" interactions.
+
+** The Eisenhower Matrix of Quality
+| Quadrant | Engineering Context | Pirsig Correlation  |
+|----------+---------------------+--------------------|
+| Q1 (U/I) | High Value/Quality  | "In the Zone"      |
+| Q2 (N/I) | Tech Debt/Refactor  | Gumption Traps     |
+| Q3 (U/N) | Meetings/Admin      | Church of Reason   |
+| Q4 (N/N) | Gold Plating        | Pure Logic/Phaedrus|
+* BOOK_REVIEW: For We Are Many (Bobiverse #2)
+:PROPERTIES:
+:AUTHOR: Dennis E. Taylor
+:GENRE: Hard Sci-Fi / Space Opera
+:THEME: Replicant Drift, The Observer Effect, Type II Civilizations
+:RATING: 7/10
+:COMPLETED: 2026-02-22
+:END:
+
+** Summary
+The Bobiverse expands into a "Distributed Computing Network" of divergent
+personalities. While fighting the "Others" (a Type II Hive Mind), the Bobs
+face the "Vindication" of Dr. Carlisle: the theory that digital immortality
+leads to inevitable psychological drift or cold optimization.
+
+** The Salon Insight
+The "Magnetism Problem" isn't data loss; it's the "Square-Cube Law" of
+Sociology. As the Bob-network grows in "Volume" (power/reach), its
+"Surface Area" (shared human identity) cannot sustain the weight,
+leading to fragmentation and a "Civil War of Values."
+
+** Connection to the "Pearl Index"
+- [[Zen and the Art of Motorcycle Maintenance]]: Both explore the search for
+  "Quality" within a mechanical system.
+- [[Dark Matter]]: The "Observer Effect" as a literal and metaphorical
+  constraint on identity and choice.
+- [[The Age of Adaline]]: The "Methuselah Problem"—the loneliness of a
+  static observer in a dynamic, mortal world.
+
+** Personal Reflection (The Pearl)
+I am finding a recurring pattern of "The Spectator's Dilemma." I gravitate
+towards characters who possess a "God's-eye view" (through technology or
+physics) but suffer from the inability to participate in the "Human"
+world without destroying its natural state. The Bobs are "Pulp"
+manifestations of Pirsig's "Classical vs. Romantic" divide.
